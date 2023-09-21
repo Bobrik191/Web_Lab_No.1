@@ -78,7 +78,7 @@
 
   .div_1_1 {
     background-color: antiquewhite;
-    width: 20vh;
+    width: 10%;
     height: 5vh;
     position: absolute;
     top: 2%;
@@ -95,8 +95,8 @@
 
   .div_6_1 {
     background-color: antiquewhite;
-    width: 20vh;
-    height: 5vh;
+    width: 10%;
+    height: 5%;
     position: absolute;
     bottom: 2%;
     right: 5%;
@@ -158,9 +158,9 @@
   }
 
   .unord_list {
-    list-style: disc;
+    list-style: none;
     color: azure;
-    margin-left: 100px;
+    text-align: center;
   }
 
   .lang_list {
